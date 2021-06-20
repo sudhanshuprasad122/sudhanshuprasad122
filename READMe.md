@@ -22,7 +22,7 @@
 <a align="left" alt="Node.js">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60"/>
 <a align="left" alt="MongoDB">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
-<a align="left" alt="GitHub">  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="48px"></a> 
+<a align="left" alt="GitHub">  <img src="https://img.icons8.com/cute-clipart/128/000000/github.png"/></a> 
 
 <HR>
   
