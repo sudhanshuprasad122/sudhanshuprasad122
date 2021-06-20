@@ -11,6 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim and play guitar.
 
+  <HR>
 
 ### Languages and Tools:
 
@@ -24,8 +25,10 @@
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
 <a align="left" alt="GitHub">  <img src="https://img.icons8.com/clouds/70/000000/github.png"/></a> 
 
-  
 <HR>
+  
+##Most Used Languages:  
+<img align="left" alt="Sudhanshu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuprasad2002" />
   
 ### Contribution Graph:
 
