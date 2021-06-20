@@ -19,7 +19,7 @@
 <a align="left" alt="CSS3">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> 
 <a align="left" alt="JavaScript">  <img src="https://i.ibb.co/bddG3Bn/icons8-javascript-logo-60-1.png" width="60" height="60"/>
 <a align="left" alt="React">  <img src="https://img.icons8.com/clouds/70/000000/react.png"/>
-<a align="left" alt="Node.js">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60"/>
+<a align="left" alt="Node.js">  <img src="https://i.ibb.co/V2ttpDv/icons8-nodejs-60.png" alt="Node.js" width="60" height="60"/>
 <a align="left" alt="MongoDB">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
 <a align="left" alt="GitHub">  <img src="https://img.icons8.com/cute-clipart/60/000000/github.png"/></a> 
