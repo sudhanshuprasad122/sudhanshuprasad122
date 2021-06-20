@@ -1,9 +1,8 @@
-<p align="center"><a href="https://t.me/UCbotchannel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
-<HR>
+### Hello everyone, I'm Sudhanshu  👋
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-  
-  ## I'm just a student who just want to learn coding!!
+## I'm just a student who just want to learn coding!!
 
 - 🔭 I love to code.
 - 🌱 I’m currently learning everything 🤣
