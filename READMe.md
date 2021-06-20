@@ -27,8 +27,10 @@
 
 <HR>
   
-##Most Used Languages:  
+###Most Used Languages:  
 <img align="left" alt="Sudhanshu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshuprasad2002" />
+  
+<HR>
   
 ### Contribution Graph:
 
