@@ -17,7 +17,7 @@
 <a align="left" alt="Visual Studio Code">  <img src="https://img.icons8.com/nolan/60/visual-studio-code-2019.png"/>
 <a align="left" alt="HTML5">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/>
 <a align="left" alt="CSS3">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> 
-<a align="left" alt="JavaScript">  <a href="https://icons8.com/icon/gYCTehfTlYk5/javascript-logo">
+<a align="left" alt="JavaScript">  <img src="https://ibb.co/2sfDkHf" width="60" height="60"/>
 <a align="left" alt="React">  <img src="https://img.icons8.com/clouds/70/000000/react.png"/>
 <a align="left" alt="Node.js">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60"/>
 <a align="left" alt="MongoDB">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
