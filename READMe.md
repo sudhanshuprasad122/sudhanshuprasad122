@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<a align="left" alt="Visual Studio Code">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48px">
+<a align="left" alt="Visual Studio Code">  <img src="https://img.icons8.com/nolan/60/visual-studio-code-2019.png"/>
 <a align="left" alt="HTML5">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/>
 <a align="left" alt="CSS3">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> 
 <a align="left" alt="JavaScript">  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" width="60" height="60"/>
