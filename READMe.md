@@ -36,10 +36,10 @@
  
 <HR>                                                          
 
- ###Spotify Now Playing🎧
+ ## Spotify Now Playing🎧
   
   <a href="https://spotify-now-playing-delta-black.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-delta-black.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://spotify-now-playing-delta-black.vercel.app/now-playing" width="360" height="64" alt="Now Playing">`
 </a>
 
 
