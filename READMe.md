@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 
-<a align="left" alt="Visual Studio Code">  <img src="https://img.icons8.com/nolan/60/visual-studio-code-2019.png" "VSCode"/>
+<a align="left" alt="Visual Studio Code">  <img src="https://img.icons8.com/nolan/60/visual-studio-code-2019.png" />
 <a align="left" alt="HTML5">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/>
 <a align="left" alt="CSS3">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> 
 <a align="left" alt="JavaScript">  <img src="https://i.ibb.co/bddG3Bn/icons8-javascript-logo-60-1.png" width="60" height="60"/>
