@@ -39,10 +39,10 @@
  ## Spotify Now Playing🎧
   
   <a href="https://spotify-now-playing-delta-black.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-delta-black.vercel.app/now-playing" width="460" height="80" alt="Now Playing">`
+    <img src="https://spotify-now-playing-delta-black.vercel.app/now-playing" width="620" height="120" alt="Now Playing">`
 </a>
 
-
+<HR>
 ## Support me 🚑
 <a href="https://t.me/UCbotchannel"> <img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/ubuntu_coders"> <img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
