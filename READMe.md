@@ -35,7 +35,13 @@
 <a href="https://github.com/sudhandhuprasad2002"><img src="https://activity-graph.herokuapp.com/graph?username=sudhanshuprasad2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 <HR>                                                          
-  
+
+ ###Spotify Now Playing🎧
+  <a href="https://spotify-now-playing-delta-black.vercel.app/now-playing?open">
+    <img src="https://spotify-now-playing-delta-black.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
+
 ## Support me 🚑
 <a href="https://t.me/UCbotchannel"> <img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/ubuntu_coders"> <img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
