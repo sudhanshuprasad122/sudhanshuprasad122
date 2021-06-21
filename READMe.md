@@ -5,7 +5,6 @@
 
 - 🔭 I love to code.
 - 🌱 I’m currently learning python, HTML, CSS and Javascript
-- 👯 I’m looking to help out others by making open source projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to swim and play guitar.
 
