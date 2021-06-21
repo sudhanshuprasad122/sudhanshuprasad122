@@ -6,7 +6,7 @@
 - 🔭 I love to code.
 - 🌱 I’m currently learning python, HTML, CSS and Javascript
 - 👯 I’m looking to help out others by making open source projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to swim and play guitar.
 
   <HR>
@@ -51,11 +51,11 @@
     <tr>
       <td><a href="https://spotify-now-playing-delta-black.vercel.app/top-tracks?i=1&open"><img src="https://spotify-now-playing-delta-black.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr> 
     <tr>
       <td><a href="https://spotify-now-playing-delta-black.vercel.app/top-tracks?i=2&open"><img src="https://spotify-now-playing-delta-black.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr>
     <tr>
       <td><a href="https://spotify-now-playing-delta-black.vercel.app/top-tracks?i=3&open"><img src="https://spotify-now-playing-delta-black.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
     </tr>
