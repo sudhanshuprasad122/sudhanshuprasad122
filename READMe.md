@@ -37,13 +37,15 @@
 <HR>                                                          
   
 ## Support me 🚑
-  
-<a align="right" href="https://t.me/UCbotchannel"> <img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram">
-<a align="right" href="https://t.me/ubuntu_coders"> <img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram">
-
+<p align="left">
+<a href="https://t.me/UCbotchannel"> <img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ubuntu_coders"> <img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+  </p>
 <HR>
   
 ### Follow me on:
+ <p align="right">
 <a align="left" href="https://twitter.com/">  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px">
 <a align="left" href="https://www.instagram.com">  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50px">
 <a align="left" href="https://t.me/UCbotchannel">  <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="50px">
+  </p>
