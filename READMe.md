@@ -75,4 +75,10 @@
 <a align="left" href="https://twitter.com/">  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px">
 <a align="left" href="https://www.instagram.com">  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50px">
 <a align="left" href="https://t.me/UCbotchannel">  <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="50px">
-
+  
+  <a
+      target="_blank"
+      rel="noreferrer"
+      href="https://www.youtube.com/channel/UCHyc0R5JMupT7nvq_RmoQrw"
+      ><img src="https://img.icons8.com/bubbles/50/000000/github.png"
+    /></a>
