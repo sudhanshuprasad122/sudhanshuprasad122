@@ -22,6 +22,7 @@
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
 <a align="left" alt="GitHub">  <img src="https://img.icons8.com/clouds/70/000000/github.png"/>
 <a align="left" alt="Heroku"> <img src="https://i.ibb.co/kcjxdJ9/icons8-heroku-60.png" /> 
+<a align="left" alt="Python"> <img src="https://i.ibb.co/V2MhWSD/icons8-python-60-2.png" /> 
 
   
 <HR>
