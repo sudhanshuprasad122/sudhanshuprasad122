@@ -21,6 +21,8 @@
 <a align="left" alt="MongoDB">  <img src="https://img.icons8.com/color/60/000000/mongodb.png"/>
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
 <a align="left" alt="GitHub">  <img src="https://img.icons8.com/clouds/70/000000/github.png"/></a> 
+<a align="left" alt="Heroku" href="http://heroku.com/"></a> <img src="https://i.ibb.co/kcjxdJ9/icons8-heroku-60.png" />
+
   
 <HR>
   
