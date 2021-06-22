@@ -1,4 +1,5 @@
 ### Hello everyone, I'm Sudhanshu  👋
+<HR>
 <img align="right" alt="GIF" src="https://github.com/sudhanshuprasad2002/sudhanshuprasad2002/blob/main/welcome.gif?raw=true" width="500" height="320" />
 
 ## I'm just a student who just want to learn coding!!
