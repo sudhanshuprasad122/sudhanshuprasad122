@@ -10,7 +10,7 @@
 
   <HR>
 
-### Languages and Tools:
+### Languages and Tools that I use:
 
 <a align="left" alt="Visual Studio Code">  <img src="https://img.icons8.com/nolan/60/visual-studio-code-2019.png" />
 <a align="left" alt="HTML5">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/>
