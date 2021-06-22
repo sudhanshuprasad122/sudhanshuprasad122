@@ -12,6 +12,7 @@
 
 ### Languages and Tools that I use:
 
+<a align="left" alt="Python"> <img src="https://i.ibb.co/V2MhWSD/icons8-python-60-2.png" /> 
 <a align="left" alt="Visual Studio Code">  <img src="https://img.icons8.com/nolan/60/visual-studio-code-2019.png" />
 <a align="left" alt="HTML5">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/>
 <a align="left" alt="CSS3">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="60" height="60"/> 
@@ -22,7 +23,7 @@
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
 <a align="left" alt="GitHub">  <img src="https://img.icons8.com/clouds/70/000000/github.png"/>
 <a align="left" alt="Heroku"> <img src="https://i.ibb.co/kcjxdJ9/icons8-heroku-60.png" /> 
-<a align="left" alt="Python"> <img src="https://i.ibb.co/V2MhWSD/icons8-python-60-2.png" /> 
+
 
   
 <HR>
