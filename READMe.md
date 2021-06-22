@@ -76,9 +76,4 @@
 <a align="left" href="https://www.instagram.com">  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50px">
 <a align="left" href="https://t.me/UCbotchannel">  <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="50px">
   
-  <a
-      target="_blank"
-      rel="noreferrer"
-      href="https://www.youtube.com/channel/UCHyc0R5JMupT7nvq_RmoQrw"
-      ><img src="https://img.icons8.com/bubbles/50/000000/github.png"
-    /></a>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
