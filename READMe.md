@@ -2,9 +2,9 @@
 <HR>
 <img align="right" alt="GIF" src="https://github.com/sudhanshuprasad2002/sudhanshuprasad2002/blob/main/welcome.gif?raw=true" width="500" height="320" />
 
-## I'm just a student who just want to learn coding!!
+## I'm just a Medical Student who just want to learn coding!!
 
-- 🔭 I love to code.
+- 🔭 I love to code and here is my 1st Website 👉👉<a href="https://github.com/sudhanshuprasad2002" target="_blank" >Click Me</a>.
 - 🌱 I’m currently learning python, HTML, CSS and Javascript
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to swim and play guitar.
@@ -24,6 +24,7 @@
 <a align="left" alt="Git">  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" height="60"/>
 <a align="left" alt="GitHub">  <img src="https://img.icons8.com/clouds/70/000000/github.png"/>
 <a align="left" alt="Heroku"> <img src="https://i.ibb.co/kcjxdJ9/icons8-heroku-60.png" /> 
+<a align="left" alt="Bash"> <img src="https://i.ibb.co/gVrLyv4/icons8-bash-60.png" /> 
 
 
   
